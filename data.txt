@@ -1,9 +1,1 @@
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': 'option1', 'email': '1@163.com', 'message': '点点滴滴的', 'timestamp': 1742525205.36607}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': 'bachelor', 'email': '1@163.com', 'message': '点点滴滴的', 'timestamp': 1742525481.689303}
-{'name': 'yangqian', 'school': '博士', 'choice': 'doctor', 'email': '1@163.com', 'message': '点点滴滴的', 'timestamp': 1742526966.768548}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': '', 'stuid': '点点滴滴', 'contact': '的', 'email': '1@163.com', 'message': '点点滴滴', 'timestamp': 1742527299.781472}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': 'bachelor', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '点点滴滴点点滴滴的', 'selectedTimes': {}, 'timestamp': 1742528231.786179}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': '', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '点点滴滴', 'selectedTimes': {'日': ['上午'], '六': ['上午'], '四': ['下午'], '二': ['下午']}, 'timestamp': 1742528431.56445}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': '', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '点点滴滴', 'selectedTimes': {'日': ['上午'], '六': ['上午'], '四': ['下午'], '二': ['下午']}, 'timestamp': 1742528505.904774}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': '', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '点点滴滴', 'selectedTimes': {'日': ['上午'], '六': ['上午'], '四': ['下午'], '二': ['下午']}, 'timestamp': 1742530983.744276}
-{'name': 'yangqian', 'school': '点点滴滴', 'choice': '', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '点点滴滴', 'selectedTimes': {'日': ['上午'], '六': ['上午'], '四': ['下午'], '二': ['下午']}, 'timestamp': 1742530984.499449}
+{'name': 'yangqian', 'school': '点点滴滴', 'choice': 'bachelor', 'stuid': '1111', 'contact': '1111', 'email': '1@163.com', 'message': '人人人人', 'selectedTimes': {'一': ['上午'], '二': ['下午'], '三': ['上午']}, 'timestamp': 1742608193.1970649}

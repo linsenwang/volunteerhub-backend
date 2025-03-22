@@ -1,7 +1,9 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Blueprint
 import time
 
-@app.route('/api/submit-form', methods=['POST'])
+api_submit_form = Blueprint('api_submit_form', __name__)
+
+@api_submit_form.route('/api/submit-form', methods=['POST'])
 def submit_form():
     data = request.get_json()  # 获取 JSON 数据
     data['timestamp'] = time.time()
