@@ -41,6 +41,32 @@ def get_card_data():
             },
             "url": "https://www.wjx.cn/vm/Q4YWhyN.aspx#"
         },
+        {
+            "title": "编目部",
+            "details": {
+                "number_of_positions": 1,
+                "working_hours": "周一至周五，上午8:30 - 11:30，下午2:30 - 5:30（每周至少有2-3个半天的工作时间）。",
+                "location": "思明校区图书馆编目部。",
+            },
+            "url": "https://www.wjx.cn/vm/Otb8PUQ.aspx#"
+        },
+        {
+            "title": "研究资料部",
+            "details": {
+                "number_of_positions": 1,
+                "working_hours": "周一至周五，上午8:30 - 11:30，下午3:00 - 6:00（每周至少有2-3个半天的工作时间）。",
+                "location": "思明校区图书馆研究资料部。",
+            },
+            "url": "https://www.wjx.cn/vm/QfhRaGW.aspx#"
+        },
+        {
+            "title": "德旺图书馆前台组助理",
+            "details": {
+                "number_of_positions": 2,
+                "working_hours": "周一至周五 8:00-12:00丨14:30-18:00丨18:00-22:00；周六至周日 9:00-12:00丨14:30-18:00丨18:00-22:00（每周至少有2个半天的工作时间，其中工作日至少1个半天）。",
+                "location": "翔安校区德旺图书馆。",
+            },
+        }
     ]
 
     return jsonify(jobs)
